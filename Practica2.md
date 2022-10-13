@@ -1,14 +1,28 @@
 # Circuitos Formula 1 
-## Suzuka Japon 
- - Tipos de neumaticos recomendados
+## Circuitos
+ - Pilotos
+ - Tabla de posiciones
+ - Equipos que participaron
+ - Tiempos de vuelta en Clasificacion
+ - Tiempo de vuelta en Carrera 
+ - Neumaticos utilizados 
+
+  # Ciucuito Mexico 
+
+- Tipos de neumaticos recomendados
     - Desgaste de Neumaticos  
- - Pilotos mas Rapidos en carrera 
- - Tiempos de Vuelta 
+    
+- Equipos que participaron
+
+- Tiempos de vuelta en clasificacion 
+
+ - Pilotos
+
+ - Tiempos de Vuelta en carrera 
     -  Tiempos  cancelados por salida de pista 
     
- - Tabla de posiciones
+ - Tabla de posiciones 
     - Top 3
     - Top 10 
     - Top 20
-  # Ciucuito Mexico   
        
