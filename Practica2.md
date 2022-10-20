@@ -9,22 +9,22 @@
 
  
 
-  # Scuderias_id
- - Nombre
+  # Scuderias_id(PK)
+ - Nombre(FK)
  - Fundador
  - Fecha de fundacion
  - Victorias
  - Presidente
  
 
- # Pilotos_id
- - Nombre
+ # Pilotos_id(PK)
+ - Nombre(fk)
  - Apellido
  - Nacionalidad
  - Campeonatos
 
-# Cicuitos_id
-- Nombre
+# Cicuitos_id(Pk)
+- Nombre(FK)
 - Pais
 - Longitd
 - Clima
