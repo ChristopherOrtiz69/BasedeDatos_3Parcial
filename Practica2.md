@@ -1,28 +1,31 @@
-# Circuitos Formula 1 
-## Circuitos
- - Pilotos
+# F1
+##  
+ - Scuderias(PK)
+ - Pilotos 
+ - circuitos 
  - Tabla de posiciones
- - Equipos que participaron
- - Tiempos de vuelta en Clasificacion
- - Tiempo de vuelta en Carrera 
- - Neumaticos utilizados 
+ - Campeonato de constructores}
 
-  # Ciucuito Mexico 
 
-- Tipos de neumaticos recomendados
-    - Desgaste de Neumaticos  
-    
-- Equipos que participaron
+ 
 
-- Tiempos de vuelta en clasificacion 
+  # Scuderias_id
+ - Nombre
+ - Fundador
+ - Fecha de fundacion
+ - Victorias
+ - Presidente
+ 
 
- - Pilotos
+ # Pilotos_id
+ - Nombre
+ - Apellido
+ - Nacionalidad
+ - Campeonatos
 
- - Tiempos de Vuelta en carrera 
-    -  Tiempos  cancelados por salida de pista 
-    
- - Tabla de posiciones 
-    - Top 3
-    - Top 10 
-    - Top 20
-       
+# Cicuitos_id
+- Nombre
+- Pais
+- Longitd
+- Clima
+
