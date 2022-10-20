@@ -4,28 +4,37 @@
  - Pilotos 
  - circuitos 
  - Tabla de posiciones
- - Campeonato de constructores}
+ - Campeonato de pilotos 2022
 
-
- 
-
-  # Scuderias_id(PK)
- - Nombre(FK)
- - Fundador
- - Fecha de fundacion
- - Victorias
- - Presidente
- 
-
- # Pilotos_id(PK)
- - Nombre(fk)
+ # Pilotos
+ - Pilotos_id(PK)
+ - Nombre
  - Apellido
  - Nacionalidad
  - Campeonatos
 
-# Cicuitos_id(Pk)
-- Nombre(FK)
-- Pais
+  # Scuderias
+ - Scuderias_id(PK)
+ - Pilotos_id(FK)
+ - Fundador
+ - Fecha de fundacion
+ - Victorias
+ - Presidente
+
+# Cicuitos
+- Cicuitos_id(Pk)
+- Nombre de Circuito
+- id_Pais(FK)
 - Longitd
 - Clima
 
+# Tabla de Posiciones
+- Piloto(FK)
+- Scuderia(FK)
+- Circuito(FK)
+- Puntos 
+
+# Pais
+- ID_Pais(PK)
+- Nombre
+- Dominio 
