@@ -1,10 +1,5 @@
 # F1
-##  
- - Scuderias(PK)
- - Pilotos 
- - circuitos 
- - Tabla de posiciones
- - Campeonato de pilotos 2022
+
 
  # Pilotos
  - Pilotos_id(PK)
@@ -43,6 +38,8 @@
 # Relaciones
 - Una Scuderia puede tener varios pilotos(1-m)
 - Un circito puede tener un pais (1-1)
-- Un campeonato de pilotos puede tener un piloto(1-1)
 - Un campenoato de pilotos puede tener una scuderia (1-1)
 - Un campeonato de pilotos puede tener varios Circuitos(1-m)
+
+# Diagrama
+![img](https://cdn.discordapp.com/attachments/882327210516701194/1034485013342867496/Diagrama_sin_titulo.jpg)
