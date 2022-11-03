@@ -4,3 +4,4 @@
 - [Practica2](./Practica2.md)
 - [EnlaceExcell](https://docs.google.com/spreadsheets/d/1tVW0ZRzOvXwDoDY-TD81VopgdQ7NHwki/edit?usp=sharing&ouid=105483875070613752608&rtpof=true&sd=true)
 - [Practica6](Practica2.md)
+-[ModelodeNegocio](./Practica2.md)
