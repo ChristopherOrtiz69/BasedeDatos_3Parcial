@@ -43,3 +43,21 @@
 
 # Diagrama
 ![img](https://cdn.discordapp.com/attachments/882327210516701194/1034485013342867496/Diagrama_sin_titulo.jpg)
+
+# Modelo de negocio
+## Pilotos
+Tomas un piloto 
+Puedes ver su Scuderia 
+## Circuitos
+Tomas el circuito 
+Vez el pais que le corresponde 
+## Tabla de posiciones 
+Tomas el campeonato de pilotos 
+Revisas los diferentes pilotos
+Puedes ver los diferentes circuitos
+Revisas que Scuderias participaron 
+
+
+
+
+
