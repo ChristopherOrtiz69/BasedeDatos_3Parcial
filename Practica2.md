@@ -46,16 +46,16 @@
 
 # Modelo de negocio
 ## Pilotos
-Tomas un piloto 
-Puedes ver su Scuderia 
+- Tomas un piloto 
+- Puedes ver su Scuderia 
 ## Circuitos
-Tomas el circuito 
-Vez el pais que le corresponde 
+- Tomas el circuito 
+- Vez el pais que le corresponde 
 ## Tabla de posiciones 
-Tomas el campeonato de pilotos 
-Revisas los diferentes pilotos
-Puedes ver los diferentes circuitos
-Revisas que Scuderias participaron 
+- Tomas el campeonato de pilotos 
+- Revisas los diferentes pilotos
+- Puedes ver los diferentes circuitos
+- Revisas que Scuderias participaron 
 
 
 
